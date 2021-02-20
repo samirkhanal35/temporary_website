@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  align-content: center;
+  padding: 0;
+  margin: 0;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.imageLinks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+.imageContent {
+  width: 20%;
+  height: auto;
+  margin-top: 1%;
+}
